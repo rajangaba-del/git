@@ -1,3 +1,6 @@
 /* Team */
 Name: Jef King
 My why: To overcome and work towards a better me in a better world.
+
+Name: Tanya Reid
+My why: To create the space for possibility.
