@@ -16,4 +16,4 @@ Ask a peer to help you with anything as you get started. You can create a git re
 [human graphiti](https://github.com/Food-X-Technologies/git/blob/main/humans.txt)
 
 ## Tools
-There are many tools; this is one that I prefer.[GitHub Desktop](https://desktop.github.com)
+There are many tools; this is one that I prefer. [GitHub Desktop](https://desktop.github.com)
