@@ -9,11 +9,11 @@ Public and private forms of communication; that enable us to collaborate. An eas
 The importance of git is that we are all able to take action; without fear of losing history.
 
 ## Learning
-[videos][https://www.gitkraken.com/resources/learn-git]
+[videos](https://www.gitkraken.com/resources/learn-git)
 Ask a peer to help you with anything as you get started. You can create a git repo, on your computer to learn on, and no one else will see if [safe learning].
 
 ## Add To
-[human graphiti][https://github.com/Food-X-Technologies/git/blob/main/humans.txt]
+[human graphiti](https://github.com/Food-X-Technologies/git/blob/main/humans.txt)
 
 ## Tools
-There are many tools; this is one that I prefer.[GitHub Desktop][https://desktop.github.com/]
+There are many tools; this is one that I prefer.[GitHub Desktop](https://desktop.github.com)
