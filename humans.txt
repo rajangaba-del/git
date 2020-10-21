@@ -39,10 +39,22 @@ Name: Ernest von Rosen
 My why: thriving on understanding and formulating complex systems. Learn something new each day.
 
 Name: Rob Sung
-My why: To continously learn and to share the knowledge.  To excel by leveraging people, processes, and technology.
+My why: To continously learn and to share the knowledge. To excel by leveraging people, processes, and technology.
 
 Name: Brendan Seppala
 My Why: To show that profitablity and sustainability do not have to be mutually exclusive ideals.
 
 Name: Deana Shahinkar
-My Why: Eexpand my creative passion and opportunities to innovate.
+My Why: Expand my creative passion and opportunities to innovate.
+
+Name: Ali Taghavi
+My Why: To build something that eliminates unnecessary processes in grocery delivery to have a cleaner and healthier environment
+
+Name: Corey Lee
+My why: Great technology makes better user experiences to promote sustainability!
+
+Name: Dmytro Nikulin
+My Why: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Name: Igor Toporet
+My Why: To equip warehouse workers with the cutting-edge software that empowers them.
