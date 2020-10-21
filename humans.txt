@@ -74,5 +74,8 @@ My Why: To help in making people's lives simple.
 Name: Ehab Abdulmejid
 My Why: To develop a smart technology that can be useful for everyone.
 
+Name: Nishant Desai
+My Why: To contribute my bit in making world a better place through software.
+
 Name: Shiv Mishra
-My Why: To speed up build, test and release process using CI/CD.  
+My Why: To speed up build, test and release process using CI/CD.
