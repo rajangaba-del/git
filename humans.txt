@@ -79,3 +79,6 @@ My Why: To contribute my bit in making world a better place through software.
 
 Name: Shiv Mishra
 My Why: To speed up build, test and release process using CI/CD.
+
+Name: Hyuk Jin Kwon
+My Why: Food is awesome. Computers are awesome. Let's build more awesome!
