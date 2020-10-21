@@ -79,3 +79,6 @@ My Why: To contribute my bit in making world a better place through software.
 
 Name: Shiv Mishra
 My Why: To speed up build, test and release process using CI/CD.
+
+Name: Jaeyun Noh
+My Why: 15 years ago, I worked at a grocery store owned by my parents. My work here is a gift to past me who yearned for innovation.
