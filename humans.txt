@@ -44,5 +44,8 @@ My why: To continously learn and to share the knowledge. To excel by leveraging 
 Name: Brendan Seppala
 My Why: To show that profitablity and sustainability do not have to be mutually exclusive ideals.
 
+Name: Dmytro Nikulin
+My Why: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 Name: Igor Toporet
 My Why: To equip warehouse workers with the cutting-edge software that empowers them.
