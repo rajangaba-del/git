@@ -61,3 +61,6 @@ My Why: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
 
 Name: Igor Toporet
 My Why: To equip warehouse workers with the cutting-edge software that empowers them.
+
+Name: Colleen Kennedy
+My Why: To have a hand in the future of food - orchestrating systems that prioritize humanity at a global scale.
