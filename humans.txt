@@ -85,3 +85,6 @@ My Why: Food is awesome. Computers are awesome. Let's build more awesome!
 
 Name: Jaeyun Noh
 My Why: 15 years ago, I worked at a grocery store owned by my parents. My work here is a gift to past me who yearned for innovation.
+
+Name: Quinton Bradley
+My why: Expand my knowledge and continuously learn how to create complex systems and supporting business processes. I want to better myself and share my learnings with the team. So we can all continuously improve togther.
