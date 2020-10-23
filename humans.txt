@@ -88,3 +88,6 @@ My Why: 15 years ago, I worked at a grocery store owned by my parents. My work h
 
 Name:  Alex Kwok
 My Why: To learn from diverse and different people and backgrounds
+
+Name: Parth Vakharia
+My Why: To develop systems which solves difficult or tiresome problems of our daily lives so users don't have to.
