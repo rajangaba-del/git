@@ -109,3 +109,6 @@ My Why: To develop systems which solves difficult or tiresome problems of our da
 
 Name: Cyril Nguyen
 My Why: To learn and create something awesome that I can be proud of.
+
+Name: Andrey Yurchik
+My Why: To make the world a better place using technology.
